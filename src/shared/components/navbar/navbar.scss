@@ -1,0 +1,21 @@
+// @function randomNum($min, $max) {
+//   $rand: random();
+//   $randomNum: $min + floor($rand * (($max - $min) + 1));
+
+//   @return $randomNum;
+// }
+
+.uk-navbar-container {
+  background-color: #111111 !important;
+}
+.uk-navbar-dropdown {
+  background: #191919 !important;
+}
+
+.profile-icon {
+  background-color: #c13939;
+  font-size: 20px !important;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding: 6px;
+}
